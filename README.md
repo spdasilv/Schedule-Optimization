@@ -2,7 +2,7 @@
 
 ## Objective
 
-* This objective of this project is to generate optimal schedules for a traveller moving between geographical points in a map. The problem studied is a variation of the well-known Travelling Salesman Problem. This variation includes the following new constraints and challenges:
+The objective of this project is to generate optimal schedules for a traveller moving between geographical points in a map. The problem studied is a variation of the well-known Travelling Salesman Problem. This variation includes the following new constraints and challenges:
 * The traveller may transverse the region in a span of multiple days.
 * The traveller must start and end each day.
 * The traveller only has a limited amount of time allocated each day to travel.
